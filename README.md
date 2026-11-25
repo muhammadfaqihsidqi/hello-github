@@ -9,6 +9,6 @@ Halo! Ini adalah repository Github pertama saya.
 Nama : Muhammad Faqih Sidqi Ahyan
 Program Studi : Sistem Informasi
 NIM : 250601026
-
+Hobi : Menonton film
 ## Tujuan
 Belajar menggunakan Git dan Github.
